@@ -1,0 +1,135 @@
+D:\University\HK4\Database_Management_System\Final Project\DraftPhongTroVsDienNuoc\BAL\bin\Debug\BAL.dll
+D:\University\HK4\Database_Management_System\Final Project\DraftPhongTroVsDienNuoc\BAL\bin\Debug\BAL.pdb
+D:\University\HK4\Database_Management_System\Final Project\DraftPhongTroVsDienNuoc\BAL\bin\Debug\DAL.dll
+D:\University\HK4\Database_Management_System\Final Project\DraftPhongTroVsDienNuoc\BAL\bin\Debug\DAL.pdb
+D:\University\HK4\Database_Management_System\Final Project\DraftPhongTroVsDienNuoc\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+D:\University\HK4\Database_Management_System\Final Project\DraftPhongTroVsDienNuoc\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\University\HK4\Database_Management_System\Final Project\DraftPhongTroVsDienNuoc\BAL\obj\Debug\BAL.csproj.Up2Date
+D:\University\HK4\Database_Management_System\Final Project\DraftPhongTroVsDienNuoc\BAL\obj\Debug\BAL.dll
+D:\University\HK4\Database_Management_System\Final Project\DraftPhongTroVsDienNuoc\BAL\obj\Debug\BAL.pdb
+C:\Users\hadan\Documents\Zalo Received Files\DraftPhongTroVsDienNuoc (1)\BAL\bin\Debug\BAL.dll
+C:\Users\hadan\Documents\Zalo Received Files\DraftPhongTroVsDienNuoc (1)\BAL\bin\Debug\BAL.pdb
+C:\Users\hadan\Documents\Zalo Received Files\DraftPhongTroVsDienNuoc (1)\BAL\bin\Debug\DAL.dll
+C:\Users\hadan\Documents\Zalo Received Files\DraftPhongTroVsDienNuoc (1)\BAL\bin\Debug\DAL.pdb
+C:\Users\hadan\Documents\Zalo Received Files\DraftPhongTroVsDienNuoc (1)\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\hadan\Documents\Zalo Received Files\DraftPhongTroVsDienNuoc (1)\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\hadan\Documents\Zalo Received Files\DraftPhongTroVsDienNuoc (1)\BAL\obj\Debug\BAL.csproj.Up2Date
+C:\Users\hadan\Documents\Zalo Received Files\DraftPhongTroVsDienNuoc (1)\BAL\obj\Debug\BAL.dll
+C:\Users\hadan\Documents\Zalo Received Files\DraftPhongTroVsDienNuoc (1)\BAL\obj\Debug\BAL.pdb
+C:\Users\vuxua\Downloads\Compressed\QuanLyPhongTro\BAL\bin\Debug\BAL.dll
+C:\Users\vuxua\Downloads\Compressed\QuanLyPhongTro\BAL\bin\Debug\BAL.pdb
+C:\Users\vuxua\Downloads\Compressed\QuanLyPhongTro\BAL\bin\Debug\DAL.dll
+C:\Users\vuxua\Downloads\Compressed\QuanLyPhongTro\BAL\bin\Debug\DAL.pdb
+C:\Users\vuxua\Downloads\Compressed\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\vuxua\Downloads\Compressed\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\vuxua\Downloads\Compressed\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.Up2Date
+C:\Users\vuxua\Downloads\Compressed\QuanLyPhongTro\BAL\obj\Debug\BAL.dll
+C:\Users\vuxua\Downloads\Compressed\QuanLyPhongTro\BAL\obj\Debug\BAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro\BAL\bin\Debug\BAL.dll
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro\BAL\bin\Debug\BAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro\BAL\bin\Debug\DAL.dll
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro\BAL\bin\Debug\DAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.Up2Date
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro\BAL\obj\Debug\BAL.dll
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro\BAL\obj\Debug\BAL.pdb
+D:\University\HK4\Database_Management_System\Final Project\QuanLyPhongTro\BAL\bin\Debug\BAL.dll
+D:\University\HK4\Database_Management_System\Final Project\QuanLyPhongTro\BAL\bin\Debug\BAL.pdb
+D:\University\HK4\Database_Management_System\Final Project\QuanLyPhongTro\BAL\bin\Debug\DAL.dll
+D:\University\HK4\Database_Management_System\Final Project\QuanLyPhongTro\BAL\bin\Debug\DAL.pdb
+D:\University\HK4\Database_Management_System\Final Project\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+D:\University\HK4\Database_Management_System\Final Project\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\University\HK4\Database_Management_System\Final Project\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.Up2Date
+D:\University\HK4\Database_Management_System\Final Project\QuanLyPhongTro\BAL\obj\Debug\BAL.dll
+D:\University\HK4\Database_Management_System\Final Project\QuanLyPhongTro\BAL\obj\Debug\BAL.pdb
+C:\Learn\Ki4\DBMS\QuanLyPhongTro\BAL\bin\Debug\BAL.dll
+C:\Learn\Ki4\DBMS\QuanLyPhongTro\BAL\bin\Debug\BAL.pdb
+C:\Learn\Ki4\DBMS\QuanLyPhongTro\BAL\bin\Debug\DAL.dll
+C:\Learn\Ki4\DBMS\QuanLyPhongTro\BAL\bin\Debug\DAL.pdb
+C:\Learn\Ki4\DBMS\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Learn\Ki4\DBMS\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\DBMS\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.Up2Date
+C:\Learn\Ki4\DBMS\QuanLyPhongTro\BAL\obj\Debug\BAL.dll
+C:\Learn\Ki4\DBMS\QuanLyPhongTro\BAL\obj\Debug\BAL.pdb
+D:\University\HK4\Database_Management_System\Final Project\DraftProject\QuanLyPhongTro\BAL\bin\Debug\BAL.dll
+D:\University\HK4\Database_Management_System\Final Project\DraftProject\QuanLyPhongTro\BAL\bin\Debug\BAL.pdb
+D:\University\HK4\Database_Management_System\Final Project\DraftProject\QuanLyPhongTro\BAL\bin\Debug\DAL.dll
+D:\University\HK4\Database_Management_System\Final Project\DraftProject\QuanLyPhongTro\BAL\bin\Debug\DAL.pdb
+D:\University\HK4\Database_Management_System\Final Project\DraftProject\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+D:\University\HK4\Database_Management_System\Final Project\DraftProject\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\University\HK4\Database_Management_System\Final Project\DraftProject\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.Up2Date
+D:\University\HK4\Database_Management_System\Final Project\DraftProject\QuanLyPhongTro\BAL\obj\Debug\BAL.dll
+D:\University\HK4\Database_Management_System\Final Project\DraftProject\QuanLyPhongTro\BAL\obj\Debug\BAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro_XQ\BAL\bin\Debug\BAL.dll
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro_XQ\BAL\bin\Debug\BAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro_XQ\BAL\bin\Debug\DAL.dll
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro_XQ\BAL\bin\Debug\DAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro_XQ\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro_XQ\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro_XQ\BAL\obj\Debug\BAL.csproj.Up2Date
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro_XQ\BAL\obj\Debug\BAL.dll
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro_XQ\BAL\obj\Debug\BAL.pdb
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro\BAL\bin\Debug\BAL.dll
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro\BAL\bin\Debug\BAL.pdb
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro\BAL\bin\Debug\DAL.dll
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro\BAL\bin\Debug\DAL.pdb
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.Up2Date
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro\BAL\obj\Debug\BAL.dll
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro\BAL\obj\Debug\BAL.pdb
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro (1)\QuanLyPhongTro\BAL\bin\Debug\BAL.dll
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro (1)\QuanLyPhongTro\BAL\bin\Debug\BAL.pdb
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro (1)\QuanLyPhongTro\BAL\bin\Debug\DAL.dll
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro (1)\QuanLyPhongTro\BAL\bin\Debug\DAL.pdb
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro (1)\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro (1)\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro (1)\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.Up2Date
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro (1)\QuanLyPhongTro\BAL\obj\Debug\BAL.dll
+C:\Users\hadan\OneDrive\Máy tính\QuanLyPhongTro (1)\QuanLyPhongTro\BAL\obj\Debug\BAL.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro (1)\BAL\bin\Debug\BAL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro (1)\BAL\bin\Debug\BAL.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro (1)\BAL\bin\Debug\DAL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro (1)\BAL\bin\Debug\DAL.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.csproj.Up2Date
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\bin\Debug\BAL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\bin\Debug\BAL.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\bin\Debug\DAL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\bin\Debug\DAL.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.csproj.Up2Date
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\bin\Debug\BAL.dll
+C:\Learn\Ki4\DBMS\Cuoiki\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\bin\Debug\BAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\bin\Debug\DAL.dll
+C:\Learn\Ki4\DBMS\Cuoiki\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\bin\Debug\DAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Learn\Ki4\DBMS\Cuoiki\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\DBMS\Cuoiki\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.csproj.Up2Date
+C:\Learn\Ki4\DBMS\Cuoiki\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.dll
+C:\Learn\Ki4\DBMS\Cuoiki\CuoiKiDBMS\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.dll
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\bin\Debug\BAL.dll
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\bin\Debug\BAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\bin\Debug\DAL.dll
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\bin\Debug\DAL.pdb
+C:\Learn\Ki4\DBMS\Cuoiki\QuanLyPhongTro(new)\QuanLyPhongTro (1)\BAL\obj\Debug\BAL.csproj.Up2Date
+C:\Users\ASUS\Documents\Zalo Received Files\DeTaiQLPT\QuanLyPhongTro\QuanLyPhongTro\BAL\bin\Debug\BAL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\DeTaiQLPT\QuanLyPhongTro\QuanLyPhongTro\BAL\bin\Debug\BAL.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\DeTaiQLPT\QuanLyPhongTro\QuanLyPhongTro\BAL\bin\Debug\DAL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\DeTaiQLPT\QuanLyPhongTro\QuanLyPhongTro\BAL\bin\Debug\DAL.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\DeTaiQLPT\QuanLyPhongTro\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Zalo Received Files\DeTaiQLPT\QuanLyPhongTro\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\DeTaiQLPT\QuanLyPhongTro\QuanLyPhongTro\BAL\obj\Debug\BAL.csproj.Up2Date
+C:\Users\ASUS\Documents\Zalo Received Files\DeTaiQLPT\QuanLyPhongTro\QuanLyPhongTro\BAL\obj\Debug\BAL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\DeTaiQLPT\QuanLyPhongTro\QuanLyPhongTro\BAL\obj\Debug\BAL.pdb
